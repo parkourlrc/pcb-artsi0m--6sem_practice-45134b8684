@@ -1,5 +1,7 @@
 **  PCB project of RS485 — RS232 converter from 6 semester practise in BSUIR
 
+[[https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fartsi0m%2F6sem_practice%2Ftree%2Fmaster%2Fkicad-rs-converter][Online preview of the PCB topology.]]
+
 | Folder             | Сontent                                      |
 | kicad-rs-converter | PCB project in KiCAD                         |
 | paper              | practise report                              |
